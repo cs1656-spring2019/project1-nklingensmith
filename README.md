@@ -6,7 +6,7 @@
 > 
 > Assignment: #1  
 > Released: January 22, 2019  
-> **Due:      February 4, 2019**
+> **Due:      February 5, 2019**
 
 ### Description
 This is the **first assignment** for the CS 1656 -- Introduction to Data Science (CS 2056) class, for the Spring 2019 semester.
@@ -100,10 +100,10 @@ If you would like to use any other libraries, you must ask permission by Sunday,
 For this assignment, you must use the repository that was created for you after visiting the classroom link. You need to update the repository to include files `pine-index.py` and `pine-search.py`, as described above, and other files that are needed for running your program. You need to make sure to commit your code to the repository provided. 
 
 We will clone all repositories shortly after midnight:  
-* the day of the deadline **Monday, February 4th, 2019**
+* the day of the deadline **Tuesday, February 5th, 2019**
 * 24 hours later (for submissions that are one day late / -5 points), and  
 * 48 hours after the first deadline (for submissions that are two days late / -15 points). 
-**No submissions will be accepted that are more than two days late, i.e., after midnight on Wednesday, February 6th, 2019.**
+**No submissions will be accepted that are more than two days late, i.e., after midnight on Thursday, February 7th, 2019.**
 
 ### About your github account
 It is very important that:  
